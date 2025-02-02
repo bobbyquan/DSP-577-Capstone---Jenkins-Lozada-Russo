@@ -1,5 +1,5 @@
 # DSP-577-Capstone---Jenkins-Lozada-Russo
-Github Repository for all Capstone Project related items for Jenkins, Lozada and Russo
+Project Proposal
 
 # Data Driven Decision Making in College Admissions
 
